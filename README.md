@@ -1,7 +1,7 @@
 # 📚 Documentation Général
 ### **📝 Présentation du Projet**
-**🎯 Objectifs**
-Principal:
+**🎯 Objectifs
+Principal:**
 - 🌐 Scanner les ports d'un serveur (*à partir d'un client*)
 - 🔒 Dans un environnement autorisé
 - 🕵️‍♂️ Déduire dse potentiellse faillse de sécurité

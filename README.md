@@ -14,7 +14,7 @@ Secondaire:
 | --------- | ------------------ | --------------------------- |
 | Tom       | Product Owner      | Doc Admin                   |
 | Balthazar | Membre             | NMAP                        |
-| Thomas    | Scrum Ma           | à définir                   |
+| Thomas    | Membre             | à définir                   |
 | Fabien    | Scrum Master       | à définir                   |
 
 ### **⚙️ Choix Techniques**

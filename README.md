@@ -16,7 +16,7 @@ Secondaire:
 | Balthazar | Membre             | NMAP                        |
 | Thomas    | Membre             | à définir                   |
 | Fabien    | Scrum Master       | à définir                   |
-@rôles restants; VM,IP,autre?
+
 ### **⚙️ Choix Techniques**
 **💻 Logiciels**
 - Nmap : Outil de scan de ports, disponible sous toutes les distributions.

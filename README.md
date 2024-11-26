@@ -10,9 +10,9 @@ Secondaire:
 - 🛠️ Créations de profils de scan personnalisés
 
 ### **👥 Membres et rôles du groupe**
-| Prénom    | Rôles              | Tâches                      |
+| Prénom    | Rôles              | Tâches                      | @rôles restants; VM,IP,autre?
 | --------- | ------------------ | --------------------------- |
-| Tom       | Product Owner      | Doc Admin                   |
+| Tom       | Product Owner      | Doc Admin, NMAP             |
 | Balthazar | Membre             | NMAP                        |
 | Thomas    | Membre             | à définir                   |
 | Fabien    | Scrum Master       | à définir                   |

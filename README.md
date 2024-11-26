@@ -5,7 +5,7 @@
 **Principal:**
 - 🌐 Scanner les ports d'un serveur (*à partir d'un client*)
 - 🔒 Dans un environnement autorisé
-- 🕵️‍♂️ Déduire dse potentiellse faillse de sécurité
+- 🕵️‍♂️ Déduire des potentielles failles de sécurité
 
 **Secondaire:**
 - 🛠️ Créations de profils de scan personnalisés

@@ -10,13 +10,13 @@ Secondaire:
 - 🛠️ Créations de profils de scan personnalisés
 
 ### **👥 Membres et rôles du groupe**
-| Prénom    | Rôles              | Tâches                      | @rôles restants; VM,IP,autre?
+| Prénom    | Rôles              | Tâches                      | 
 | --------- | ------------------ | --------------------------- |
 | Tom       | Product Owner      | Doc Admin, NMAP             |
 | Balthazar | Membre             | NMAP                        |
 | Thomas    | Membre             | à définir                   |
 | Fabien    | Scrum Master       | à définir                   |
-
+@rôles restants; VM,IP,autre?
 ### **⚙️ Choix Techniques**
 **💻 Logiciels**
 - Nmap : Outil de scan de ports, disponible sous toutes les distributions.

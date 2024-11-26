@@ -18,9 +18,8 @@ Secondaire:
 | Fabien    | Scrum Master       | à définir                   |
 
 ### **⚙️ Choix Techniques**
-** Logiciels**
-
-Nmap : Outil de scan de ports, disponible sous toutes les distributions.
+**💻 Logiciels**
+- Nmap : Outil de scan de ports, disponible sous toutes les distributions.
 
 **🖥️ Serveur : Debian 12**
 - Nom : SRVLX01

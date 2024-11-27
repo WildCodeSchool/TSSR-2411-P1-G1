@@ -26,7 +26,7 @@
 <span id="membres-et-rôles-du-groupe"></span>  
 | Prénom    | Rôles              | Tâches                      | 
 | --------- | ------------------ | --------------------------- |
-| Tom       | Product Owner      | Doc Admin, NMAP             |
+| Tom       | Product Owner      | Doc Admin, NMAP, VM, IP     |
 | Balthazar | Membre             | NMAP                        |
 | Thomas    | Membre             | VM (Serveur), IP            |
 | Fabien    | Scrum Master       | Management                  |

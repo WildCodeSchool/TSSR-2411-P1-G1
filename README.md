@@ -1,5 +1,6 @@
 # 📚 Documentation Général
-## 📑 Sommaire
+---
+### 📑 Sommaire
 - [🎯 Objectifs](#objectifs)
 - [👥 Membres et rôles du groupe](#membres-et-rôles-du-groupe)
 - [⚙️ Choix Techniques](#choix-techniques)
@@ -7,7 +8,7 @@
 - [⚠️ Difficultés rencontrées](#difficultés-rencontrées)
 - [💡 Solutions et alternatives trouvées](#solutions-et-alternatives-trouvées)
 - [🚀 Améliorations possibles](#améliorations-possibles)
-
+---
 ### **📝 Présentation du Projet**
 
 **🎯 Objectifs**

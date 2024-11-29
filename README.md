@@ -21,7 +21,7 @@
 
 **Secondaire:**
 - 🛠️ Créations de profils de scan personnalisés
-
+---
 ### **👥 Membres et rôles du groupe**
 <span id="membres-et-rôles-du-groupe"></span>  
 **Sprint 1**
@@ -32,6 +32,14 @@
 | Thomas    | Membre             | VM (Serveur), IP            |
 | Fabien    | Scrum Master       | Management                  |
 
+**Sprint 2**
+| Prénom    | Rôles              | Tâches                      | 
+| --------- | ------------------ | --------------------------- |
+| Tom       |                    |                             |
+| Balthazar |                    |                             |
+| Thomas    |                    |                             |
+| Fabien    |                    |                             |
+---
 ### **⚙️ Choix Techniques**
 <span id="choix-techniques"></span>
 **📦 Logiciels**

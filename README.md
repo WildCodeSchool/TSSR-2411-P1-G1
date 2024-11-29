@@ -69,7 +69,7 @@ Dans un monde où tout est connecté et fonctionne grâce aux 0 et 1, nous faiso
 ### **💡 Solutions et alternatives trouvées**
 <span id="solutions-et-alternatives-trouvées"></span>
 - Configuration de l'IP fixe
-  - Pour résoudre les problèmes que nous avions rencontrés, nous devions régler le mode réseau sur "**interne**" au lieu de "**NAT**" Ensuite pour le problème de configuration IP fixe, il fallait la configurer dans le fichier: `/etc/network/interfaces` , sans oublier de définir le bon gateway sinon on ne peut ni envoyer ni recevoir de paquets.
+  - Pour résoudre les problèmes que nous avions rencontrés, nous devions régler le mode réseau sur "**Bridge**" au lieu de "**NAT**" Ensuite pour le problème de configuration IP fixe, il fallait la configurer dans le fichier: `/etc/NetworkManager/` , sans oublier de définir le bon gateway sinon on ne peut ni envoyer ni recevoir de paquets.
 
 ### **🚀 Améliorations possibles**
 <span id="améliorations-possibles"></span>

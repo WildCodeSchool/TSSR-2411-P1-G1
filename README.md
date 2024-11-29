@@ -35,7 +35,7 @@
 <span id="choix-techniques"></span>
 **📦 Logiciels**
 - Nmap 👁️‍🗨️: Outil de scan de ports, disponible sous toutes les distributions.
-- Wireshark 🦈: Outil d'analyse réseau, utilisé pour surveiller le trafic en temps réel. 
+- Wireshark 🦈 *(optionnel)* : Outil d'analyse réseau, utilisé pour surveiller le trafic en temps réel. 
 
 **🖥️ Serveur : Debian 12**
 - Nom : SRVLX01

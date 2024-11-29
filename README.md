@@ -33,7 +33,7 @@
 
 ### **⚙️ Choix Techniques**
 <span id="choix-techniques"></span>
-**💻 Logiciels**
+**📦 Logiciels**
 - Nmap 👁️‍🗨️: Outil de scan de ports, disponible sous toutes les distributions.
 - Wireshark 🦈: Outil d'analyse réseau, utilisé pour surveiller le trafic en temps réel. 
 
@@ -43,13 +43,13 @@
 - Mot de passe : Azerty1*
 - Adresse IP fixe : 172.16.10.10/24
 
-**🧑‍💻 Client : Ubuntu 22.04**
+**🐧  Client : Ubuntu 22.04**
 - Nom : CLILIN01
 - Compte utilisateur : wilder
 - Mot de passe : Azerty1*
 - Adresse IP fixe : 172.16.10.20/24
 
-**🧑‍💻 Client : Windows 10**
+**💻 Client : Windows 10**
 - Nom : CLIWIN02
 - Compte utilisateur : wilder
 - Mot de passe : Azerty1*

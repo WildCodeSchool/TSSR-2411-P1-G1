@@ -36,8 +36,8 @@
 | Prénom    | Rôles              | Tâches                      | 
 | --------- | ------------------ | --------------------------- |
 | Tom       | Product Owner      | Doc Admin, NMAP, VM, IP     |
-| Balthazar | Membre             | NMAP                        |
-| Thomas    | Membre             | VM (Serveur), IP            |
+| Balthazar | Membre             | NMAP, VM NMAP IP                        |
+| Thomas    | Membre             | VM (Serveur), IP, NMAP            |
 | Fabien    | Scrum Master       | Management                  |
 ---
 ### **⚙️ Choix Techniques**

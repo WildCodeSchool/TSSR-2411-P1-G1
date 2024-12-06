@@ -35,10 +35,10 @@
 **Sprint 2**
 | Prénom    | Rôles              | Tâches                      | 
 | --------- | ------------------ | --------------------------- |
-| Tom       |                    |                             |
-| Balthazar |                    |                             |
-| Thomas    |                    |                             |
-| Fabien    |                    |                             |
+| Tom       | Product Owner      | Doc Admin, NMAP, VM, IP     |
+| Balthazar | Membre             | NMAP                        |
+| Thomas    | Membre             | VM (Serveur), IP            |
+| Fabien    | Scrum Master       | Management                  |
 ---
 ### **⚙️ Choix Techniques**
 <span id="choix-techniques"></span>
@@ -72,8 +72,6 @@ Dans un monde où tout est connecté et fonctionne grâce aux 0 et 1, nous faiso
 <span id="difficultés-rencontrées"></span>
 - Configuration de l'IP fixe
   - En essayant de la configurer, nous étions en mode "**NAT**", un autre problème était la configuration de l'IP fixe nous avons été confrontés à plusieurs soucis de configuration de celle-ci.
-- a définir
-- a définir 
 
 ### **💡 Solutions et alternatives trouvées**
 <span id="solutions-et-alternatives-trouvées"></span>
@@ -82,3 +80,4 @@ Dans un monde où tout est connecté et fonctionne grâce aux 0 et 1, nous faiso
 
 ### **🚀 Améliorations possibles**
 <span id="améliorations-possibles"></span>
+Pas vraiment d'idée !
